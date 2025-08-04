@@ -22,7 +22,7 @@ Pusula AI yerli kaynaklardan ilhamla geliştirilen çözümler sunmayı misyon e
 
 | Üye           | Rol                    | Eğitim Bilgisi                                                                 | Github                                           |
 |---------------|------------------------|--------------------------------------------------------------------------------|--------------------------------------------------|
-|**Merve CANPOLAT**  | Takım Kaptanı , Yazılım Geliştirici       | Yalova Üniversitesi, Bilgisayar Mühendisliği Mezunu               |https://github.com/mervecplt |
+|**Merve CANPOLAT**  | Takım Kaptanı , Yazılım Geliştirici       | Yalova Üniversitesi, Bilgisayar Mühendisliği 2. sınıf öğrencisi              |https://github.com/mervecplt |
 | **Aleyna ERKUL** | Proje Yöneticisi ,Yazılım Geliştirici | Yalova Üniversitesi, Bilgisayar Mühendisliği 4. sınıf öğrencisi |https://github.com/aleynaaley
 | **Yusuf Sami KAYGUSUZ**  | Danışman       | Yalova Üniversitesi, Bilgisayar Mühendisliği Mezunu               |https://github.com/YusufsKaygusuz |
 
